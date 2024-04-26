@@ -1,0 +1,10 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 2.0.5
+_src_path: gh:algorandfoundation/algokit-beaker-default-template
+author_email: 33459750+papismurf@users.noreply.github.com
+author_name: dbpython
+contract_name: banki
+deployment_language: python
+preset_name: starter
+project_name: bankichain-contracts
+
